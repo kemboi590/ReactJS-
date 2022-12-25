@@ -7,4 +7,5 @@ const WithoutJSX = () => {
     )
 }
 export default WithoutJSX
+
 //it is somehow hard to code without JSX
