@@ -13,3 +13,4 @@ function FunctionClick() {
     )
 }
 export default FunctionClick
+//event handling on functional component
