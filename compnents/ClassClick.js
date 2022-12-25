@@ -13,4 +13,5 @@ class ClassClick extends Component {
     }
 }
 export default ClassClick
+
 //event handling on class component
