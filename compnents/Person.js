@@ -11,5 +11,6 @@ function Person({person}) {
 }
 
 export default Person 
+
 //this is the child component and linked to the parent OrderList.js
 //used to render out html
