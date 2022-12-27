@@ -20,4 +20,5 @@ const Great = ({name, jargonName, children}) => {
 
 }
 export default Great
+
 //this is a functional component
