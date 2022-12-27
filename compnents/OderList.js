@@ -30,5 +30,6 @@ function OderList() {
 }
 
 export default OderList
+
 //this is the parent component and link to the child Person.js
 //responsible for rendering the list
