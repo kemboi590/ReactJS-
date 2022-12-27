@@ -36,6 +36,7 @@ class EventBind extends Component {
     )
   }
 }
+
 //binding eventHanders in react
 // 1. binding in the render function : has perfomance implications
 // 2. binding using arrow function in render : best when we don't have nested children
