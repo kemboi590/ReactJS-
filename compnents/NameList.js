@@ -7,5 +7,4 @@ function NameList() {
       <div> { nameList }</div>
   )
 }
-
 export default NameList
