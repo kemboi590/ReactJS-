@@ -16,7 +16,7 @@ class EventBind extends Component {
     //         message: "Goodbye"
     //     })
     //     console.log(this)
-    // }
+    // } 
     
     clickHandler = () => {
         this.setState({
