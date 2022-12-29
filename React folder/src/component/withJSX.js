@@ -7,4 +7,5 @@ const WithJSX = () => {
     )
 }
 export default WithJSX
+
 //coding with JSX when writing React is much simpler
