@@ -4,7 +4,7 @@ class ClassClick extends Component {
     clickHandler() {
         console.log ("clcked the button")
     }
-    render() {
+    render() { 
         return (
             <div>
                 <button onClick={this.clickHandler} >Click me</button>
