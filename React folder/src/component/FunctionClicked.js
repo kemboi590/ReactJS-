@@ -12,4 +12,4 @@ function FunctionClick() {
         </div>
     )
 }
-export default FunctionClick
+export default FunctionClick 
