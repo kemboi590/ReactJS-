@@ -15,4 +15,4 @@ function Inline() {
 
 export default Inline
 /* Styling React Components
-2.This is Inline styleing */
+2.This is Inline styleing */ 
