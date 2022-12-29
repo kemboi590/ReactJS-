@@ -8,7 +8,7 @@ function Person({person}) {
         </h2>   
     </div>
   )
-}
+} 
 
 export default Person 
 //this is the child component and linked to the parent OrderList.js
