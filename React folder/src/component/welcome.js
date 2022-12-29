@@ -7,4 +7,5 @@ class Welcome extends Component {
  }
 }
 export default Welcome
+
 //this is a class component
