@@ -30,4 +30,4 @@ class Counter extends Component {
     }
 }
 export default Counter
-//setState in React
+//setState in React 
