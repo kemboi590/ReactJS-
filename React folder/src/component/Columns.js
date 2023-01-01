@@ -2,7 +2,7 @@ import React from 'react'
 
 function Columns() {
   return (
-      <React.Fragment>
+      <React.Fragment> 
           <td>Name</td>
           <td>Kemboi</td>
     </React.Fragment>
