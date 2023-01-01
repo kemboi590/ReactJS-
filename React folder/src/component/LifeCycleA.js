@@ -3,7 +3,7 @@ import LifeCycleB from './LifeCycleB'
 
 class LifeCycleA extends Component {
      constructor(props) {
-       super(props)
+       super(props) 
      
        this.state = {
           name: 'Kemboi'
