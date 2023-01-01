@@ -69,7 +69,7 @@ export default LifeCycleA
 
 //  LifeCyleB  shouldComponentUpdate 
 
-//  LifeCycleB render
+//  LifeCycleB render 
 
 //  LifeCyleB getSnapShotBeforeUpdate
 
