@@ -9,7 +9,7 @@ class Form extends Component {
          comments: '',
          topic: 'react'
        }
-  }
+  } 
   handleUsername = event => {
     this.setState({
       userName: event.target.value
