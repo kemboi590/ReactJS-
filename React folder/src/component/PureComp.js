@@ -8,4 +8,4 @@ import React, { PureComponent } from 'react'
   }
 }
 
-export default PureComp
+export default PureComp 
