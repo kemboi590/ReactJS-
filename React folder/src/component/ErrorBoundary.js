@@ -16,7 +16,7 @@ class ErrorBoundary extends Component {
   render() {
     return (
       <div>ErrorBoundary</div>
-    )
+    ) 
   }
 }
 
