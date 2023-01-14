@@ -20,4 +20,4 @@ class InputClass extends Component {
   }
 }
 
-export default InputClass
+export default InputClass 
