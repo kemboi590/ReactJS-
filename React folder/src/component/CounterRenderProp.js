@@ -21,5 +21,5 @@ class CounterRenderProp extends Component {
     )
   }
 }
-
+ 
 export default CounterRenderProp
