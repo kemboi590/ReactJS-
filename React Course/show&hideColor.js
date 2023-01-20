@@ -18,3 +18,4 @@ function App() {
   }
 
 export default App;
+//usestate hook to hide and show colors
