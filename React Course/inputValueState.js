@@ -17,3 +17,4 @@ function App() {
   }
 
 export default App;
+//using usestate hook to target input value
